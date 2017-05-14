@@ -47,11 +47,7 @@ void initShip(void);
 void initLasers(void);
 void initRocks(void);
 
-//node_laser *allocnodeLaser(void);
-//node_rock *allocnodeRock(void);
 
-//void freenodeLaser(node_laser *n);
-//void freenodeRock(node_laser *n);
 
 extern struct laser *activeLaser;
 extern struct rock *activeRock;
